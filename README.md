@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Melika 👋
 
-<!--
-**melikaafrakhteh/melikaafrakhteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android & Compose Multiplatform developer with 4+ years of professional experience.
 
-Here are some ideas to get you started:
+## What I do
+- Build production apps with **Kotlin**, **Jetpack Compose** and **Compose Multiplatform** (Android, iOS, Web/PWA)
+- Migrated legacy screens from Epoxy to Compose and moved a codebase to **MVI**
+- Write unit and UI tests (JUnit4, Mockito, Turbine)
+- Currently working on a KMP/CMP codebase at Hooshmand Sepehr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Kotlin · Jetpack Compose · Compose Multiplatform · KMP · Coroutines & Flow ·
+Koin · Ktor · MVI/MVVM · Mockito · Turbine
+
+## Featured projects
+- **[MKPlayer](https://github.com/melikaafrakhteh/MKPlayer)**: music player for Android
+
+## Contact
+[LinkedIn](www.linkedin.com/in/melika-afrakhteh)
