@@ -1,19 +1,44 @@
 # Hi, I'm Melika 👋
 
-Android & Compose Multiplatform developer with 4+ years of professional experience.
+**Android & Compose Multiplatform Developer**
 
-## What I do
-- Build production apps with **Kotlin**, **Jetpack Compose** and **Compose Multiplatform** (Android, iOS, Web/PWA)
-- Migrated legacy screens from Epoxy to Compose and moved a codebase to **MVI**
-- Write unit and UI tests (JUnit4, Mockito, Turbine)
-- Currently working on a KMP/CMP codebase at SEPINO
+4+ years of professional experience building production applications with **Kotlin**, **Jetpack Compose**, and **Compose Multiplatform**.
 
-## Tech
-Kotlin · Jetpack Compose · Compose Multiplatform · KMP · Coroutines & Flow ·
-Koin · Ktor · MVI/MVVM · Mockito · Turbine
+I enjoy working on modernizing codebases, designing maintainable architectures, and building software that works across platforms.
 
-## Featured projects
-- **[MKPlayer](https://github.com/melikaafrakhteh/MKPlayer)**: music player for Android
+---
 
-## Contact
+### What I work with
+
+**Kotlin**  
+Android · Jetpack Compose · Compose Multiplatform · KMP
+
+**Architecture**  
+MVI · MVVM · Clean Architecture · Coroutines · Flow
+
+**Tools & Libraries**  
+Koin · Ktor · JUnit4 · Mockito · Turbine
+
+---
+
+### Experience
+
+- Built and maintained production Android applications
+- Migrated legacy UI from **Epoxy to Jetpack Compose**
+- Helped migrate a codebase toward **MVI**
+- Built cross-platform features with **Compose Multiplatform** across Android, iOS, and Web/PWA
+- Written unit and UI tests using **JUnit4, Mockito, and Turbine**
+- Currently working on a **KMP/CMP production codebase at SEPINO**
+
+---
+
+### Featured
+
+**[MKPlayer](https://github.com/melikaafrakhteh/MKPlayer)**  
+A music player for Android, built with Kotlin.
+
+---
+
+### Find me
+
 [LinkedIn](https://www.linkedin.com/in/melika-afrakhteh/)
